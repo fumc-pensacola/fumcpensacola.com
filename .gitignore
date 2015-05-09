@@ -1,0 +1,9 @@
+/wp-content
+/sitemap.*
+/wp-config.php
+*.sql
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
+.htaccess
