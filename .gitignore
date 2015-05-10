@@ -1,8 +1,8 @@
 /sitemap.*
-/wp-config.php
 *.sql
 *.DS_Store
 *Thumbs.db
 *.sass-cache*
 *~imageoptim*
 .htaccess
+wp-content/uploads
