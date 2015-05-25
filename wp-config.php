@@ -55,7 +55,7 @@ define('NONCE_SALT',       'put your unique phrase here');
 
 /** Set custom constants */
 define('WP_CONTENT_DIR', $_SERVER['DOCUMENT_ROOT'] . '/wp-content');
-define('WP_CONTENT_DIR', 'http://' . $_SERVER['SERVER_NAME'] . '/wp-content');
+define('WP_CONTENT_URL', 'http://' . $_SERVER['SERVER_NAME'] . '/wp-content');
 // define('WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME']);
 
 /**
